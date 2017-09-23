@@ -35,7 +35,7 @@ header {
 }
 
 html {
-	background: url("./assets/images/small_steps.png");
+	background-image: url(../images/small_steps.png);
 }
 
 
