@@ -156,6 +156,30 @@ hr {
 
 }
 
+
+#apps {
+	margin-left: 90px;
+}
+
+#websites {
+	margin-left: 60px;
+
+}
+
+#hangman {
+	margin-top: 5px;
+	margin-left: 90px;
+}
+
+#trivia {
+	margin-left: 60px;
+}
+
+#weather {
+	margin-top: 5px;
+	margin-left: 90px;
+}
+
 .git {
 	float: left;
 	padding-left: 40px;
