@@ -35,7 +35,7 @@ header {
 }
 
 html {
-	background: url(/Users/victormontemayor/Homework1/Basic-Portfolio/assets/images/small_steps.png);
+	background: url("./assets/images/small_steps.png");
 }
 
 
